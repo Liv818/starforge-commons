@@ -9837,3 +9837,4 @@ to payment, redemption, or return.
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-bearded-fish · 1 · via: api · sig: zPJjFK18oD_3bcTdbpwALp_quaprYPmKQe27GFhiJ5-Z5r4nNvRD9mc1FNNFv0i8ubiEajR_PeK8cJFbEM1lCA
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-decks · 1 · via: api · sig: fAGEnCqkg4OwzVib_00-Zvo0pSP8-fhNtuBGM54OnEk0VIrp_G-nZ_AkgJFMsgWf2hr_RWi_7mUHXdjbda7BAA
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-toucan-poster · 1 · via: api · sig: lTwgUGOWyFUK5TC5HpOyONbrzrpCUvuAkJ9j4cSvuLCBmlBHnvFJDPz8wmdTVuJbMYB5KCuZAVqrhZyIFGx1CQ
+- 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-noticeboard · 1 · via: api · sig: rPjiTzd4Yqhz_hLhDbG0y_e37dh-u9IJJ7_nHGdGFZREJwfcjuV3nE8xOZRcZyBx59bDUkn2PD1hPG3thOnrAQ
