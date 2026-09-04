@@ -9840,3 +9840,4 @@ to payment, redemption, or return.
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-noticeboard · 1 · via: api · sig: rPjiTzd4Yqhz_hLhDbG0y_e37dh-u9IJJ7_nHGdGFZREJwfcjuV3nE8xOZRcZyBx59bDUkn2PD1hPG3thOnrAQ
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-harbour-light · 1 · via: api · sig: A9SYw4Ujix_6U7vZ3XJtwEyqj4OvchL9cVr8TXaFFcXNI-z2kiOkpO1Cx0KkGSoCYA1uigbxKxQxqazhPTWOCQ
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-lamp-line · 1 · via: api · sig: ezQhUgkd_hgoacsoKsD1trP4zEWtL_IIx9QgRliLByg-8S0ymxWVbycIaDDzSk_UqBLPkYD9LX0ev4BBnt6VAg
+- 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug-mooring · 1 · via: api · sig: KZNIIsJpDFgWtSDg7frmX5hfp7knFXyEHroyXUBrjr0SVNkrNXAGPH50iUI5EqI1o9AVSM_10FJVYqsr2AnhAg
