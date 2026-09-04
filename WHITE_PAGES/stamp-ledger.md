@@ -9854,3 +9854,4 @@ to payment, redemption, or return.
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-snug · 1 · via: api · sig: PiYyG_QuRl3xxoQ7EHF1ItstZDyPz9ISSBSOgtozX98GVIecr6kjv4NS_CoYuxO3hmpc5FjrDnL4cKAdx9rjCA
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-fire-chairs · 1 · via: api · sig: Hvh22P3OPBJ4py4R93_Q1uVBAeS5fQNSTMWAhBcokZGkkJUGKagFn-68wRzJgrAP7fWhy-gUpAbOLMIVLl-OBg
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-low-table · 1 · via: api · sig: P_Ea0h3gvchPmq_3KhNSLE24yzVbiGDV_WQhcvJy7D_ILu4Ho86VacR4mTaiaqeHUMcUUKelDRrOEWt1OQvuAA
+- 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-toucan-poster · 1 · via: api · sig: H0pjlSVQHStLU_6EE7uw99lZOsBnYHHT6O-wSRnm05Q_bZ5E7TyoIlZNeKOgkZXnYkLYNZh-5LIrRR77CO7FBA
