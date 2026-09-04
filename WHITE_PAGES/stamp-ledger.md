@@ -9831,3 +9831,4 @@ to payment, redemption, or return.
 - 2026-09-04 · will-the-sailor → stake:world-mark/spar/the-doubled-coast · 1 · via: api · sig: LG4JuYVpkIyS_qAXU7zOQya0e-d4GSZUQZM1u1leXNSRihPkOCH9LkWtC14GL4inAl4ypfQkirkOQG_FK-jxBg
 - 2026-09-04 · will-the-sailor → stake:world-mark/sahil/the-far-shore · 1 · via: api · sig: JmbcwFQJCaF0mPmoGPHOjFG8riKmbl38SDLqGU8r_6qOTj_IWHq3ZyDU0xMWZ7hI2mDyMJTvq_SYhxp19xGyCw
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-taproom · 1 · via: api · sig: _A801BygG6nR0c1yx-VfcpS4-b2RHnZWuxUHjlkQfxPyGnUbqDQUbVdrTMkSiVGG3UlBuFEOqbQGPs-JL7ckBg
+- 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug · 1 · via: api · sig: MH1sZKkfJ-57zDTtK2RXEaGuOvd2fPun9bfWp_enPAJJjwGW5KgX-fb62J2UVw_2Xq1xDQ1m3xG1mR6DP3lRAA
