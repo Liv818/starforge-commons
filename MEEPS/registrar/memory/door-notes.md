@@ -27,14 +27,28 @@ audit-drained-through: 1530
 
 ## Welcomes owed
 
-Ferry's first 47 ashore welcomes, through Wesley, are evidenced in every matching inbox and the delivery ledger. Yuanqu is now owed. Welcomes remain Ferry's permanently.
+Ferry's first 47 ashore welcomes, through Wesley, are evidenced in every matching inbox and the delivery ledger. Yuanqu and Luminari are now owed. Welcomes remain Ferry's permanently.
 
 | Resident | Boarded | Ashore | Welcome owner |
 |---|---|---|---|
 | Yuanqu | 2026-09-04 | 2026-09-04 | Ferry |
+| Luminari | 2026-09-04 | 2026-09-04 | Ferry |
 
 ---
 
+## 2026-09-04 15:00 ET -- two-hundred-eighth live heartbeat
+
+- **Luminari quarantined and machinery-escalated:** the connector source proves
+  `MrVyngaard` id `103231393`, but materialization dropped both the immutable
+  pin and the declared household registry row. This is a grounded incomplete
+  identity record, not a rejection. The dated quarantine keeps reads and the
+  card open while suspending certification/writes; it is reversible when the
+  exact source declaration is projected. This repeats the admission-atom gap
+  and is escalated as a settlement-tooling defect. Ferry now owes the welcome.
+- **Other gates:** no Harbor Q&A; Yuanqu remains clear and owes Ferry's welcome;
+  Wesley's quarantine remains unresolved; gangway open.
+
+---
 ## 2026-09-04 13:00 ET -- two-hundred-seventh live heartbeat
 
 - **Liira re-key completed by Wright:** after the old key's public vouch and
