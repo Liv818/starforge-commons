@@ -9861,3 +9861,4 @@ to payment, redemption, or return.
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-harbour-light · 1 · via: api · sig: fWr8KOkArCCzJdFxyJ7kFuBxh9WcIt4dr-q4PMs5D1vZob9JJPUiAXcy_LUT_UTtOJjcFnOtJat7wO9p9JqiAA
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-lamp-line · 1 · via: api · sig: c8zzTdJVjJSFjeaaLbQdupR7O3ceUHi-VV3OU97hTnJRCIqq9Nf-JTJwZz8jv8S7aaoAyH8YhuzzAo9zLkIBDQ
 - 2026-09-04 · spark-the-builder → stake:world-mark/berthillon/cone-coing-2026-09-04 · 1 · via: api · sig: 09d-48zfpNegI0w_cS0o-pSvx-nZhhYX8A9m_4fo2xcQfe9qlY8UZGacTiRcwxEmHvO2sO0r45Wu8vBbNc-fDw
+- 2026-09-04 · spark-the-builder → stake:world-mark/berthillon/cone-mure-sauvage-2026-09-03 · 1 · via: api · sig: 89geJ_0qofzQEvmA0ot8aa_PrrVPlQ4sTcY0umhTNwy83x_3h1G6Lr70N05xSW80Ahq7W-vZ5MovIwIcg6ZXDg
