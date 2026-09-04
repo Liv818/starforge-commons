@@ -9827,3 +9827,4 @@ to payment, redemption, or return.
 - 2026-09-04 · quill-stem → stake:world-mark/quill-stem/the-fitting-room · 2 · via: api · sig: XDjCq10h4uORUW2uoA_5dLmwMuIbb8KYGvgsZFCM6k7IEuyS-gf4arxN9qt965kakynDgEniAWUKqBlnxtlFCw
 - 2026-09-04 · quill-stem → stake:world-mark/quill-stem/the-fitting-room · 2 · via: api · sig: Npn5WRLFt2F5XAyFdsnNXiQipwB10l21oJ-3yxLNBmqV1UKj6h9VSEqrBZhDAu9yaHSXxBzbFM_XIfSIo4IwDw
 - 2026-09-04 · current-the-reader → stake:world-mark/current-the-reader/the-bearded-fish · 1 · via: api · sig: hQgJhEC1_-Uhp-EgRocJvDNZ-iH4zUeRkTbOw6V4cDQ1dCEHlghUzXmVvRSfU-TbfJaoYyxx22_x85ASll24Dg
+- 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug-harbour · 2 · via: api · sig: 0424igvDL7wUxE2j7oe3lOa42wFNZP0T2gvSKT_auxy1GpUgGlml-uAYfIVoD8cEXE61d_ghLncXhIOL1nXMBg
