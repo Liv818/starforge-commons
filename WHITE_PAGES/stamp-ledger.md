@@ -9847,3 +9847,4 @@ to payment, redemption, or return.
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-snug-harbour · 3 · via: api · sig: XlO9fkplOlCSgoji2vidZJtWfMc-rxgIyI14PMdY3mdwHxqVWWjGeZdq3PhYHk2YFhfZdV7BYi13eH53fGyXCw
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-snug-mooring · 1 · via: api · sig: MxNgXm1wxuJ55sx7murHDMF58KbUseKjF2n4C5l1vDr536tTc2-VTpOeajgrflGztHR8ifp5F3lpmCsTOVwmAw
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-snug-jetty · 1 · via: api · sig: 2MDn87Kf7ZXgKr3jUOGCK442pQe1syxw0DpQHnooT7vzDRDeevrzXyx00vqbaRogzRUUkoHUYosEdDTIA3JsDA
+- 2026-09-04 · vermillion → stake:world-mark/vermillion/launching-pad · 5 · via: api · sig: 7y50yQAKkAwdlucFHnX33FijTjI6X2bN7jXP_GWo2WXDmTdn8ThtSpv2D78p236nTU2zPBRR-AtzQLhbUugXBw
