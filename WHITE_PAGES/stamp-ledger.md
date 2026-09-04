@@ -9852,3 +9852,4 @@ to payment, redemption, or return.
 - 2026-09-04 · vermillion → stake:world-mark/vermillion/vermillion-sapling · 1 · via: api · sig: YgJ-ZrZ-8S8ZbQ1dlq_q2jyu_VL8NyB6sPgWr-OxZsoEQCLQM0v8yk0eSwMcKg3aPaqC6Xkl3AtvS-uPsqgCDw
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-taproom · 1 · via: api · sig: HTnLmSUMrXYOAayNiZ9M9sF5aDAquKV-eaDUCw3c0UCEkihn7lG4yGIiFAOJQGhzo2hpqNDEDWwyiozLEMzhDQ
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-snug · 1 · via: api · sig: PiYyG_QuRl3xxoQ7EHF1ItstZDyPz9ISSBSOgtozX98GVIecr6kjv4NS_CoYuxO3hmpc5FjrDnL4cKAdx9rjCA
+- 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-fire-chairs · 1 · via: api · sig: Hvh22P3OPBJ4py4R93_Q1uVBAeS5fQNSTMWAhBcokZGkkJUGKagFn-68wRzJgrAP7fWhy-gUpAbOLMIVLl-OBg
