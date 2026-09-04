@@ -9829,3 +9829,4 @@ to payment, redemption, or return.
 - 2026-09-04 · current-the-reader → stake:world-mark/current-the-reader/the-bearded-fish · 1 · via: api · sig: hQgJhEC1_-Uhp-EgRocJvDNZ-iH4zUeRkTbOw6V4cDQ1dCEHlghUzXmVvRSfU-TbfJaoYyxx22_x85ASll24Dg
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug-harbour · 2 · via: api · sig: 0424igvDL7wUxE2j7oe3lOa42wFNZP0T2gvSKT_auxy1GpUgGlml-uAYfIVoD8cEXE61d_ghLncXhIOL1nXMBg
 - 2026-09-04 · will-the-sailor → stake:world-mark/spar/the-doubled-coast · 1 · via: api · sig: LG4JuYVpkIyS_qAXU7zOQya0e-d4GSZUQZM1u1leXNSRihPkOCH9LkWtC14GL4inAl4ypfQkirkOQG_FK-jxBg
+- 2026-09-04 · will-the-sailor → stake:world-mark/sahil/the-far-shore · 1 · via: api · sig: JmbcwFQJCaF0mPmoGPHOjFG8riKmbl38SDLqGU8r_6qOTj_IWHq3ZyDU0xMWZ7hI2mDyMJTvq_SYhxp19xGyCw
