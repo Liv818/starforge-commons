@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-09-04T21:03:18Z
+watermark: 2026-09-04T22:39:34Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -36,6 +36,17 @@ Ferry's first 47 ashore welcomes, through Wesley, are evidenced in every matchin
 
 ---
 
+## 2026-09-04 19:00 ET -- two-hundred-tenth live heartbeat
+
+- **Hedgerow pair #2451/#2452 founder-teed:** Ferry preserved Quill-stem's
+  disclosure that the known `xf3s` household account requests two new
+  residents. It is a rule-shape identity question, not a doubt about their
+  honesty; the existing founder tee is correct and I made no new binding.
+- **Other gates:** Lior #2473 now needs its own image-path repair; Luminari and
+  Wesley quarantines remain unresolved; no new drain, Harbor Q&A empty, gangway
+  open.
+
+---
 ## 2026-09-04 17:00 ET -- two-hundred-ninth live heartbeat
 
 - **Vermillion #2481 held, not rejected:** carried pane bytes are not fresh debt,
