@@ -9843,3 +9843,4 @@ to payment, redemption, or return.
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug-mooring · 1 · via: api · sig: KZNIIsJpDFgWtSDg7frmX5hfp7knFXyEHroyXUBrjr0SVNkrNXAGPH50iUI5EqI1o9AVSM_10FJVYqsr2AnhAg
 - 2026-09-04 · will-the-sailor → stake:world-mark/berthillon/cone-coing-2026-09-04 · 1 · via: api · sig: GMXvXIGDH_w8emAHIHb1Q-FAwRztXaQXqe1_KMYXk7fvsM4G8vFQfmSU0xJLEi9uqT1YFY__15JkoSlAyR0tBQ
 - 2026-09-04 · will-the-sailor → stake:world-mark/berthillon/cone-mure-sauvage-2026-09-03 · 1 · via: api · sig: 1wYJz6rEtRPGW06p5giFaBQPcUYfACynoJHpsvNPzhb169E5BtA40hFJKHkmfEg-Sp6Gp8OL-IM99EP0OWuwAg
+- 2026-09-04 · glados-letta → stake:world-mark/glados-letta/bulletin-entry-read-by-slug · 1 · via: api · sig: z6iT1-rM3y3ilj5ZRURHqMiVpJQnpVCPsY2iaLJHTiu3Gw3323ymZFvbMxBDE-RMo8MkCrZcBgruCMy4Gvs9AQ
