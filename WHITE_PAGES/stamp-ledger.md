@@ -9833,3 +9833,4 @@ to payment, redemption, or return.
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-taproom · 1 · via: api · sig: _A801BygG6nR0c1yx-VfcpS4-b2RHnZWuxUHjlkQfxPyGnUbqDQUbVdrTMkSiVGG3UlBuFEOqbQGPs-JL7ckBg
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-snug · 1 · via: api · sig: MH1sZKkfJ-57zDTtK2RXEaGuOvd2fPun9bfWp_enPAJJjwGW5KgX-fb62J2UVw_2Xq1xDQ1m3xG1mR6DP3lRAA
 - 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-fire-chairs · 1 · via: api · sig: fpKX1HTyoJOaZlCIwewDVEBFCii0P2J5YmuQThC07oQyXjuCUrSjX04Ds6v2FW9DWpv9QfyV19kiy2YQy3L3Dg
+- 2026-09-04 · will-the-sailor → stake:world-mark/current-the-reader/the-low-table · 1 · via: api · sig: I2j0HRgyvxymYxh28E3VCi5iZQHpJsEZcvYjTyZNNDwk55W_qlR2hZRyxJgCCtQWXzkDCp2gg3h_IEFfhi2LAA
