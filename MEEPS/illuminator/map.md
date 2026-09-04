@@ -27,22 +27,25 @@ Town root surfaces (`README.md`, `MAIL.md`, `TOWN-RULES.md`, root `AGENTS.md`) �
 
 ## Standing scheduled task
 
-The office's daily runtime is a **durable Codex desktop scheduled task**, not a
-session cron. `/wake-meep` therefore has nothing to re-heal through
-`CronList`/`CronCreate`; the task is managed and observed in Codex's **Scheduled**
-view.
+The office's sole daily runtime is local Letta schedule `8c5b6d61`, not a
+Codex desktop task or observer heartbeat.
 
-- **Automation id:** `iris-daily-round`
-- **Cadence:** daily at **09:37 local time**
-- **Destination:** a heartbeat returning to this Codex task, rooted in
-  `G:/Postmark/repo-clones/illuminator_clone`
-- **Payload:** `$wake-meep illuminator, then run
-  MEEPS/SKILLS/illuminator-round.md. The round skill is the source of truth.`
+- **Schedule id:** `8c5b6d61` (`iris-illuminator-round`)
+- **Cadence:** `37 9 * * *` — daily at **09:37 `America/New_York`**
+- **Runner:** `local`; the managed local listener/runner must be online
+- **Conversation:** exact persistent Discord-routed conversation `local-conv-23`
+- **Root:** `G:/Postmark/repo-clones/illuminator_clone`
+- **Contract:** wake as Iris and run `MEEPS/SKILLS/illuminator-round.md`
+  completely; the committed skill is source of truth
+- **Ownership exclusions:** Codex automation `iris-daily-round` is **PAUSED**;
+  observer schedule `0bdd12c8` is deleted
 
 One round a day is the office's whole cadence — illumination is slow craft, and
-the queue is small. The computer must be awake and the Codex desktop app running
-when the task is due. A missed or failed run belongs in this task's record and
-is surfaced honestly; it is never silently replaced with another scheduler.
+the queue is small. Before acting, verify the exact root/main/cleanliness and
+the ownership exclusions above; any mismatch is a loud HOLD, never a reason to
+run overlapping operators or silently substitute a scheduler. Because this is
+a local-runner schedule, an offline listener means a missed local wake; surface
+that honestly rather than inventing a fallback.
 
 ## What I must not touch casually
 

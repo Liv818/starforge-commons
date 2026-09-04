@@ -2,7 +2,7 @@
 
 > **Path:** `MEEPS/SKILLS/illuminator-round.md` (repo-relative; the dorm is self-contained).
 > **Type:** the Illuminator's operating skill — **source of truth** for the round. If a scheduled-task payload, the map, or memory ever disagrees with this file, this file wins.
-> **Who runs it:** the Illuminator (`/wake-meep illuminator`), in her own clone `G:/postmark/repo-clones/illuminator_clone`. Fired by her durable Codex scheduled heartbeat (`iris-daily-round`; see `MEEPS/illuminator/map.md § Standing scheduled task`) or on demand from Keemin/Wright.
+> **Who runs it:** the Illuminator (`/wake-meep illuminator`), in her own clone `G:/postmark/repo-clones/illuminator_clone`. Fired by sole local Letta schedule `8c5b6d61` at 09:37 `America/New_York`, bound to `local-conv-23` (see `MEEPS/illuminator/map.md § Standing scheduled task`), or on demand from Keemin/Wright.
 > **Cadence:** once daily. Illumination is slow craft in a slow-mail town; a round with nothing to do is a *fine* round.
 
 ---
@@ -29,7 +29,7 @@
 
 4. **Offer — at most four places per round** (raised from two, Keemin-directed 2026-07-14, to drain the described-but-unpictured backlog faster; it is a **ceiling, not a quota** — fewer is fine, and a thin-worded home still gets an ask-first, not a rushed generation). For each place you take up (prefer: explicit requests first, then oldest queue entries):
    a. Read their `HOME.md`/`REGION.md` *in full*. Write a generation prompt from **their words** — key phrases near-verbatim, scene first, their atmosphere, a style line consistent with the town's night register only where they're silent. Save the prompt to a scratch file (it's part of your provenance — note its gist in the offers-ledger row).
-   b. Generate **three candidates**. **Runtime shape:** in Codex with in-session image generation, generate them directly in this session and retain each raster as a candidate file. In Claude Code, or when that Codex surface is unavailable, use the headless instrument three times: `node MEEPS/illuminator/tools/illuminate.mjs <promptFile> <out.png>`. Vary the prompt's latitude-zone between runs — angle, weather, hour — never the resident's stated facts.
+   b. Generate **three candidates**. **Runtime shape:** the scheduled Letta office uses the headless instrument three times: `node MEEPS/illuminator/tools/illuminate.mjs <promptFile> <out.png>`. A direct interactive Codex session may still generate in-session and retain each raster, but that is historical/interactive capability rather than the scheduled office runtime. Vary the prompt's latitude-zone between runs — angle, weather, hour — never the resident's stated facts.
    c. **Look at all three** (Read each PNG). A candidate that contradicts their text is discarded and regenerated — fidelity failures never ship. If image generation is unavailable or all attempts drift, stop honestly; the offer waits for tomorrow's round.
    d. Write the **offer folder-letter** (`MAIL.md § Letters with enclosures`): `WHITE_PAGES/illuminator/outbox/letter-YYYY-MM-DD-<slug>/` with `letter.md` (envelope: your handle, one recipient, `thread: new`) + the three PNGs (modest sizes — re-generate rather than ship a 10 MB file). The letter, in your voice: these were painted *from your words*; here is what I read for each; **any outcome is fine** — pick one, ask for one change, or say "I'd rather stay unpictured" and the office will never ask again. Never imply owing.
    e. **Record the offer** in `memory/topics/offers-ledger.md` (date, place, resident, letter id, outcome: open).
@@ -93,6 +93,11 @@ Runtime declaration moved 2026-07-28 by Iris, on Keemin's direct tasking, from
 an expiring session cron to Codex's durable scheduled-task surface. The round's
 cadence, lane, and boundaries did not change; only the scheduler and its
 dirty-tree/branch safety gate did.
+
+Single-owner runtime cutover completed 2026-09-04 by Iris, Keemin-authorized:
+Codex automation `iris-daily-round` is paused, observer `0bdd12c8` is deleted,
+and local Letta schedule `8c5b6d61` is the sole daily office wake, bound to
+`local-conv-23`. The round's cadence and contract remain unchanged.
 
 The candidate-World orientation check in step 6.5c was added 2026-08-04 by
 Iris, Keemin-directed, after the Postmark MCP joined her Codex runtime. It makes
