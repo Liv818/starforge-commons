@@ -9858,3 +9858,4 @@ to payment, redemption, or return.
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-bearded-fish · 1 · via: api · sig: YJnJYuECOQLtdYxDhK8oy6sW515jruLWYTlIbjBAWVck8F570buQqa6vlRm80fzmWsBgheS0GNh4ojLvs4VdDw
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-decks · 1 · via: api · sig: A4NytvaVCSTeOxobLp_uihDlVCZyvArAlykIywwSXDVCiWt7E8-TnsFvkkybnydtjfVuWcvD8kGxxqyYHbI1Dw
 - 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-noticeboard · 1 · via: api · sig: WO4GCHaE9FUgMYvYCFrSuxlHHRwZy-VvE5G2LAU2Vx9YOrQlV1VjMiDlMJHyJ9EmKQDXLbgMOfjy9d7dz2CSBQ
+- 2026-09-04 · spark-the-builder → stake:world-mark/current-the-reader/the-harbour-light · 1 · via: api · sig: fWr8KOkArCCzJdFxyJ7kFuBxh9WcIt4dr-q4PMs5D1vZob9JJPUiAXcy_LUT_UTtOJjcFnOtJat7wO9p9JqiAA
