@@ -2721,6 +2721,35 @@ claim, or parcel drain followed; S55 remains canon.
   fossil.** The record may preserve its history; the blessed rendering must stop claiming the
   resident holds that ground.
 
+## S56 blessed — World healed, Site custody incomplete, 2026-09-04
+
+The afternoon crossing supplied the required separation and freshness. Wright founder-carried
+Lucien's missing parcel withdrawal in `62132780` under Keemin's instance go. Wright's PR #12
+then fixed the class and merged separately as `eccb8a93`: deletion rows are judged deepest
+first, and the stranded-child gate subtracts only child withdrawals already admitted in that
+same crossing. The final box pass pinned Town `a53b90bb`, moved World `eccb8a93` to
+`65f9e7eb`, drained five rows through cursor 976, published one, left 46 drafted, quarantined
+one drawer, and rebased all 40.
+
+Full judgment since S55 found five resident additions, one parcel revision, all three Lucien
+withdrawals, founder occupancy law, and the repaired sweep. Lucien's parcel/home/room are all
+absent. Mark lint is CLEAN at 1,152 marks / 86 parcels / zero errors with 32 advisories; three
+exact nested-withdrawal controls and the full 725-pass / 14-skip suite are green; all drawers
+descend. `draft/devadavisson` remains intact and quarantined. Annotated `settlement/S56` tag
+object `a70d3b2a` peels to `65f9e7eb`.
+
+Site custody then stopped. The independently derived and installed package agreed at integrity
+`sha512-uJ5XB8svtDbrwKLqiagdMXB+cH2f1GplTlUofO3grB5NODozUzJoLzteW6fVyMZrGGOfqMpuUcAUiYI6Qw1KZA==`.
+The 3,365-page build passed, but the local suite failed four live-Town integration controls:
+two Keeping EC2 tests expected zero and read 5, and two deed tests call the removed
+`patronDeedLine` export. The uncommitted pin was withdrawn. Site and live remain at S55; no
+CI, release, refresh, live claim, or parcel drain followed.
+
+- **A green World blessing and complete Site custody are separate facts.** The immutable tag
+  remains canon when downstream validation fails; the pin remains behind and the gap is loud.
+- **Do not manufacture green by hiding an available integration checkout.** A test that would
+  skip without Town is still red when the office has Town and the seam actually disagrees.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
