@@ -1,10 +1,17 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import { extractPngFromJsonl, extractThreadIdFromJsonl, isValidPngBytes } from './illuminate.mjs';
+import { codexSubscriptionEnv, extractPngFromJsonl, extractThreadIdFromJsonl, isValidPngBytes } from './illuminate.mjs';
 
 const validPngBytes = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=', 'base64');
 const validPng = validPngBytes.toString('base64');
+
+test('keeps the Codex child on subscription auth even when an API key is inherited', () => {
+  assert.deepEqual(
+    codexSubscriptionEnv({ PATH: 'safe-path', OPENAI_API_KEY: 'must-not-reach-codex' }),
+    { PATH: 'safe-path' },
+  );
+});
 
 test('extracts a bare PNG result from a nested Codex event', () => {
   const jsonl = [
