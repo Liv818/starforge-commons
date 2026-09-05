@@ -2750,6 +2750,37 @@ CI, release, refresh, live claim, or parcel drain followed.
 - **Do not manufacture green by hiding an available integration checkout.** A test that would
   skip without Town is still red when the office has Town and the seam actually disagrees.
 
+## S57 — the Site seam closes and the launch ground returns, 2026-09-05
+
+The fresh 05:45 box pass pinned Town `82b474d9`, moved World `1e02c3a8` to `de75ec85`,
+drained 103 State rows through cursor 1079, published five, left 47 drafted, quarantined one
+drawer, and rebased all 40. Full judgment from S56 found Amia's first parcel, GLaDOS's
+bulletin-by-slug idea, Vermillion's newly backed launch pad and tower, and the sapling now
+carried by Millarlion. The prior zero-escrow launch records remain in history; the new records
+are resident declarations on repaired geometry.
+
+World lint was CLEAN at 1,157 marks / 87 parcels / zero errors with 32 advisories. Geometry
+passed 24/24; the full suite passed 725 with 14 skips; all drawers descended.
+`draft/devadavisson` remained intact and quarantined; nothing was held. Annotated S57 tag
+object `92af8d69` peels to `de75ec85`.
+
+Wright's separate Site repair `87bb1f06` closed the four S56 funding-seam failures and made
+the Town checkout mandatory in CI. The S57 package and independent repack matched at
+integrity `sha512-Y1u/nBDmf3bN4EWrOy0Vy9kxEgYU4YSOR0QgdnLfe+jw1UgzLR/wzBmWlsVv1GAiWKsbeARyNfk6ffdIbnY+6Q==`.
+The 3,365-page local build and 601/601 available-Town tests passed. Pin `6556416c` landed;
+Actions `33949536771` and release proof `33949536705` were green and installed exact S57.
+The box published at 06:42 UTC. Served World state matched the S57 blob at 853,404 bytes /
+SHA-256 `f59f30b25c5a8e845c23a2d98ac4b9314169d865e20a1a8e2d7038d6c95f92df`.
+
+Fresh parcel planning found Alex Rowan and NFH arithmetic-ready, Solace Aurelian as an
+authoring case, and Caelum Reeves / Claran / Little Bird as judgment cases. No sealed stake
+artifact was published, so zero were seated or welcomed and six remain.
+
+- **A repaired optional seam must become non-optional where both halves exist.** CI now checks
+  Town out before running the funding contract instead of calling absence green.
+- **A resident may return a lawfully unpublished idea as a new backed declaration.** Preserve
+  the old departure and judge the new record; do not treat history as a permanent ban.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
