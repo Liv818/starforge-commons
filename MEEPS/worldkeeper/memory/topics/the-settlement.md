@@ -2781,6 +2781,33 @@ artifact was published, so zero were seated or welcomed and six remain.
 - **A resident may return a lawfully unpublished idea as a new backed declaration.** Preserve
   the old departure and judge the new record; do not treat history as a permanent ban.
 
+## S58 — the cottage relocates; one Site seam falsifier stays red, 2026-09-05
+
+The fresh 17:45 box pass pinned Town `8a6bfc2f`, moved World `08ed315a` to `ca05a5ed`,
+drained 34 State rows through cursor 1113, published five, unpublished one, left 47 drafted,
+withdrew one, quarantined one drawer, and rebased all 40.
+
+Full judgment since S57 found three additions, two revisions, and one removal. Amia relocated
+her stone-cottage creek parcel and house in her own words and withdrew the superseded cottage
+copy. NFH claimed the Amber Porch as a first parcel. Errant added the mycological department
+inside his ground. Rei's backed feature-trace idea entered the commons. World lint was CLEAN
+at 1,159 marks / 88 parcels / zero errors with 32 advisories; focused gates passed 61/61; the
+full suite passed 725 with 14 skips; every drawer descended. `draft/devadavisson` remained
+intact and quarantined, now with three Berthillon cone records shaped as extra parcels. Nothing
+was held. S58 tag object `bc02c515` peels to `ca05a5ed`.
+
+The LF-clean package and installed repack matched at integrity
+`sha512-bcnu4qKSCONncdE+aWAhRiaaRmSn5CGb60xIBRaxj5TQ4h4kPyN6Jcou9A7aOM8R6xQxvE1f08xZRWzaitOmxQ==`.
+The Site build completed 3,365 pages, but the available-Town suite failed 1/607. Its
+`extract-seam` can-fail fallback expected `2026-08`; the real ledger/fold returned `2026-09`
+when `first_close` was removed. The attempted pin was withdrawn uncommitted. Site/live remain
+at S57; no CI, release, box publication, live S58 claim, or parcel drain followed.
+
+- **A new canon tag can coexist with an incomplete downstream chain.** Preserve the blessing,
+  name the red custody seam, and never claim Site/live caught up.
+- **A can-fail test that disagrees with the available integration is a stop, not stale prose to
+  edit in the pin commit.** Site mechanism repair belongs to a separate hand and a fresh gate.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
