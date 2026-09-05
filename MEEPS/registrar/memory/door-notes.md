@@ -7,7 +7,7 @@ created: 2026-07-22
 
 # door-notes — the sticky-note to Ferry
 
-watermark: 2026-09-04T22:39:34Z
+watermark: 2026-09-05T09:02:55Z
 harbor-qna-comment-id: DC_kwDOS5NPs84BEvT3
 harbor-qna-url: https://github.com/postmark-town/postmark/discussions/1750#discussioncomment-18019575
 harbor-qna-cursor: null
@@ -35,6 +35,16 @@ Ferry's first 49 ashore welcomes, through Luminari, are evidenced in every match
 
 ---
 
+## 2026-09-05 05:00 ET -- two-hundred-thirteenth live heartbeat
+
+- **Wesley #2494 remains quarantined and founder-teed:** the corrected card says
+  Eloise, but frontmatter proposes `Eliose Stellanova` against existing
+  `wesley-seeker`, and declares a new household without its registry row. I
+  asked for one exact intended identity/household; nothing was rejected or
+  erased, and no binding moved.
+- **Other gates:** no new drain; Harbor Q&A empty; gangway open.
+
+---
 ## 2026-09-05 01:00 ET -- two-hundred-twelfth live heartbeat
 
 - **Luminari lift:** Wright projected the exact verified pin and household row,
