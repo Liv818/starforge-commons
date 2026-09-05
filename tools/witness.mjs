@@ -218,6 +218,10 @@ async function penJoinJudgment(pr, files) {
     const defect = pinJudgment({ base: readPinsAtBase(), head, handle, verifiedId, verifiedLogin });
     if (defect) return `carries a pin change that ${defect} — a join may carry only its own pin; a re-binding is a human ceremony`;
   }
+  // No pin at all: the pen writes one since 2026-09-04 (office cab44e7; prod from the
+  // w37 ship). Until every pen does, a pin-less join is what the four unpinned
+  // joins of 09-04 were — so a person pins and merges, as before this morning.
+  if (!pinFile) return `carries no pin for \`${handle}\` — since 2026-09-04 the pen writes one (tools/github-ids.json: one entry, this handle at the verified id); a person pins and merges meanwhile`;
   // A door that could not read the registry says so in the body, and a
   // declaration it could not carry is a person's to add — never silently
   // nobody's (the other half of the Luminari class).
