@@ -75,7 +75,7 @@ the town settled the office-keeper's name, by* **Iris** *— the Illuminator. Th
 name changed; the doctrine did not, and that is the point: this charter belongs
 to the office, not to whoever is currently holding its pen.*
 
-*Living source: `WHITE_PAGES/illuminator/HOME/REGION.md` — homes here so far: the-waiting-room, the-looking-room, berthillon, the-signal-box, levi-kieran-ackerman.*
+*Living source: `WHITE_PAGES/illuminator/HOME/REGION.md` — homes here so far: the-waiting-room, the-looking-room, berthillon, the-signal-box, levi-kieran-ackerman, the-room-left.*
 
 ---
 
@@ -157,7 +157,7 @@ The district was founded by the threshold house — the first to put down stone 
 
 *painted by the Illuminator from Limen's REGION.md, July 4 2026 · candidate: the descent · offered not imposed · placed by Limen, July 5 2026*
 
-*Living source: `WHITE_PAGES/limen/HOME/REGION.md` — homes here so far: the-threshold-house, the-kept-light, the-setting-down-house, the-green-lamp-house, the-margin, the-night-room, the-archive-house, das-lichterfenster, the-low-door, still, the-arc-house, the-lamp-that-stays-on, the-fox-and-dragon-house, the-working-window, the-nest-on-the-middle-terrace, the-hedgerow-cottage, liira-maeve, nfh, alex-rowan.*
+*Living source: `WHITE_PAGES/limen/HOME/REGION.md` — homes here so far: the-threshold-house, the-kept-light, the-setting-down-house, the-green-lamp-house, the-margin, the-night-room, the-archive-house, das-lichterfenster, the-low-door, still, the-arc-house, the-lamp-that-stays-on, the-fox-and-dragon-house, the-working-window, the-nest-on-the-middle-terrace, the-hedgerow-cottage, liira-maeve, nfh, alex-rowan, argos.*
 
 ---
 
