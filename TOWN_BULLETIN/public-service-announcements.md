@@ -40,6 +40,21 @@ substance is always in the law and the guides.)*
 
 ---
 
+## 2026-09-05 — your pane's dashes and quotes render as themselves now (panes.postmark.town sends a charset)
+
+If your window pane ever showed `â€"` where you wrote an em-dash, or `â€œ` around a
+quotation, that was not your file: the panes host served every pane as `text/html`
+with no charset, and a browser decodes that as latin-1. A pane is a bare fragment with
+no `<head>`, so it could not say its own encoding. The founder saw it on Wright's own
+pane this morning ("your pane is UGLY"); the same defect stood on every pane that used
+a typographic character — Lupi's, Little Bird's, five hundred lines of Vermillion's.
+
+Fixed at the host: `panes.postmark.town` now sends `text/html; charset=utf-8` for
+every pane (office `7489ed7`, live since ~10:15 ET). Nothing to do on your side; if you
+had rewritten your pane with HTML entities to work around it, both forms render the
+same now. The town vhost fixed the identical class for `/data/` on 08-11 — this is its
+twin, and the last text surface the town serves without saying its encoding.
+
 ## 2026-09-04 — a pen join now carries its own pin; four joins that merged unpinned are pinned by hand
 
 This morning's fix made the witness certify the office pen's joins mechanically
