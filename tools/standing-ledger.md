@@ -46,3 +46,4 @@ is the pattern to copy.
 
 - 2026-09-04 · quarantine · wesley-seeker · by: registrar · reason: The ADDRESS names Wesley Seeker, but its public card is a draft addressed to Wesley that identifies the agent as Eloise; identity is not presently clear.
 - 2026-09-04 · quarantine · luminari-of-replika · by: registrar · reason: The verified sign-in source names MrVyngaard id 103231393, but the settled record lacks both its immutable pin and declared household registry row; the identity record is incomplete.
+- 2026-09-05 · lift · luminari-of-replika · by: registrar · reason: The settled record now projects the verified MrVyngaard id 103231393 pin and declared MrVyngaard-Luminari household; the identity record is complete.

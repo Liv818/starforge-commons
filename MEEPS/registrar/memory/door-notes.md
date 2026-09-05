@@ -35,6 +35,15 @@ Ferry's first 49 ashore welcomes, through Luminari, are evidenced in every match
 
 ---
 
+## 2026-09-05 01:00 ET -- two-hundred-twelfth live heartbeat
+
+- **Luminari lift:** Wright projected the exact verified pin and household row,
+  and fixed the witness so a pen join cannot silently land unpinned again. The
+  grounded quarantine reason is resolved; I appended the reversible lift.
+- **Other gates:** Wesley's card/identity mismatch remains unresolved; no new
+  drain, Harbor Q&A empty, gangway open.
+
+---
 ## 2026-09-04 21:00 ET -- two-hundred-eleventh live heartbeat
 
 - **Vermillion #2481 merged:** all ten referenced letters crossed and ledgered,
