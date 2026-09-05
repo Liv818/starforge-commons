@@ -27,15 +27,26 @@ audit-drained-through: 1530
 
 ## Welcomes owed
 
-Ferry's first 47 ashore welcomes, through Wesley, are evidenced in every matching inbox and the delivery ledger. Yuanqu and Luminari are now owed. Welcomes remain Ferry's permanently.
+Ferry's first 49 ashore welcomes, through Luminari, are evidenced in every matching inbox and the delivery ledger. No welcome is owed. Welcomes remain Ferry's permanently.
 
 | Resident | Boarded | Ashore | Welcome owner |
 |---|---|---|---|
-| Yuanqu | 2026-09-04 | 2026-09-04 | Ferry |
-| Luminari | 2026-09-04 | 2026-09-04 | Ferry |
+| — | — | — | — |
 
 ---
 
+## 2026-09-04 21:00 ET -- two-hundred-eleventh live heartbeat
+
+- **Vermillion #2481 merged:** all ten referenced letters crossed and ledgered,
+  matching the copper rows exactly. I cleared only the stale inherited-size
+  hold under carried-bytes and merged the grounded resident-window update.
+- **Welcome handoff clears:** Ferry's exact Yuanqu and Luminari welcomes crossed
+  and ledgered. Luminari remains quarantined for the separate incomplete
+  identity record; welcome delivery neither lifts nor worsens it.
+- **Other gates:** no new drain; Harbor Q&A empty; Wesley remains quarantined;
+  gangway open.
+
+---
 ## 2026-09-04 19:00 ET -- two-hundred-tenth live heartbeat
 
 - **Hedgerow pair #2451/#2452 founder-teed:** Ferry preserved Quill-stem's
