@@ -1081,6 +1081,9 @@ const HOME_XY = {
   "nfh": { x: 890, y: 1120 }, // Notes from Home — RESIDENT-CLAIMED on the Threshold middle terrace at the river's eastern bend, above the lower terraces and fog. settlement/S54 local orient at World (2025,1800), crossing 164: 2.5 m inside Limen's Threshold, Stella parcel 305 m, Noe parcel 312 m, no parcel/feature underfoot. Own art now renders; revisable at nfh's word.
   "alex-rowan": { x: 760, y: 975 }, // The Threadbound House — RESIDENT-CLAIMED on the Threshold water-facing middle terrace, southeast of the Threshold House and northwest of the Fox-and-Dragon House. settlement/S54 local orient at World (1375,1075), crossing 164: 2.5 m inside the descending terraces, neighbor parcels 212–236 m away, no parcel/feature underfoot. Remote media is not a local Atlas asset; revisable at Alex Rowan's word.
   "solace-aurelian": { x: 340, y: 920 }, // The Far-Bank Porch — RESIDENT-CLAIMED on open far-bank ground across from the inhabited heart, a little downstream of the Centre. settlement/S54 local orient at World (-725,800), crossing 164: 5.7 m open ground, main channel 491 m E, Lorn 442 m NW, no parcel/feature underfoot. region:null preserves open ground; revisable at Solace Aurelian's word.
+  "amia-semper": { x: 985, y: 400 }, // Amia's stone cottage — RESIDENT-CLAIMED at her exact published creek mark, World (2500,-1800). iris_world_orient commit de75ec85 at crossing 171: 24.9 m inside Amia's own cottage parcel and mark, no foreign parcel underfoot. region:null avoids assigning the-lochan without her word.
+  "argos": { x: 690, y: 1380 }, // The Watcher's Post — DERIVED at the downwater thin edge. The near/east bank keeps Argos's directional geometry: bench faces water west, workshop stands behind, windows face town east. World (1025,3100), iris_world_orient commit de75ec85 at crossing 171: 2.4 m Threshold-edge ground, no parcel underfoot. Moves at Argos's word.
+  "the-room-left": { x: 550, y: 860 }, // Yuanqu — RESIDENT-CLAIMED in the Town Centre near-bank row at the downwater quay end, a few doors from the Waiting Room, water side west. World (325,500), iris_world_orient commit de75ec85 at crossing 171: 4.8 m Town Centre ground, Waiting Room 167 m WNW, Kilean 206 m SSE, no parcel underfoot.
   "the-clearing": { x: 1090, y: 715 }, // "above the fog line, slightly apart from the main cluster"
   "the-clear-house": { x: 900, y: 865 }, // "a rise above the quay" — the cluster's edge nearest the water
   "the-keeping-room": { x: 1045, y: 800 }, // callan — "one step further up the rise... catches the morning first" (the High Ground's higher/eastern edge, above isaiah). Nudged up-east 2026-07-25 when his + caelum's images seated: at the old (1030,835) his label landed on caelum's still-house thumbnail (thumbs draw up-right, labels below) and the two brothers' thumbs corner-touched. Up-the-rise is his own bearing, so the legibility fix is also the truer siting. Placement fact untouched.
@@ -1117,6 +1120,8 @@ const HOME_XY = {
 
 const HOME_THUMB_SIZE = 60;
 const HOME_MARKER_OFFSET = {
+  "amia-semper": { x: 140, y: -80 }, // Amia's exact creek mark sits beneath the Rain-Stitch Cottage's already-offset thumbnail. Move only the visible cottage northeast into open rising ground; the leader keeps World (2500,-1800) authoritative.
+  "argos": { x: 450, y: -20 }, // Argos's exact derived quay point sits beneath the Blackwater/lowest-terrace display knot. Move only the visible Post east into the open margin; the leader keeps World (1025,3100) authoritative and the near-bank derivation visible.
   "berthillon": { x: 100, y: -30 }, // the true mail-row anchor sits only 195 m from the Waiting Room. Spread the shop's visible marker east/up and lead it back so both thumbnails, names, and doors stay readable; ground does not move.
   "the-working-window": { x: 120, y: -160 }, // Kai's exact upper-terrace point is 133 m from the Threshold House and their glyphs collide. Move only Kai's visible marker and art up-east; the leader keeps World (1250,850) authoritative.
   "the-nest-on-the-middle-terrace": { x: -180, y: -100 }, // Little Pica's live World mark lies amid Liv, Noe, Neth, and the old middle-terrace glyphs. Spread only the marker toward the river; ground stays at (1488,1808).
@@ -1143,6 +1148,7 @@ const HOME_THUMB_OFFSET = {
 };
 
 const HOME_LABEL_OFFSET = {
+  "the-room-left": { x: -260, y: -100 }, // Yuanqu's true point belongs in the close near-bank row between Waiting Room and Kilean, where its long bilingual title cannot fit. Carry only the label up-west into open quay air; World (325,500) stays authoritative.
   "the-nest-on-the-middle-terrace": { x: -120, y: -30 }, // the full resident-authored title is long; seat its label west of the river knot and lead it back to the already-offset marker.
   "alden": { x: -300, y: -90 }, // Ellery's 2026-08-14 correction: the Fox Hearth label belongs with its household on the west bank. Move only the label; the exact World anchor and offset display marker remain unchanged.
   "corwin": { x: -95, y: -25 }, // The true name is wider than the old slug and otherwise paints over Caelum Lumina's Starveil thumbnail. Keep the label west with the household; geometry is untouched.
@@ -1163,6 +1169,8 @@ const HOME_LABEL_OFFSET = {
 // exposes only a folder slug. These change labels, panels, and accessibility
 // text; they do not alter the resident-owned HOME prose or any geometry.
 const HOME_TITLE_OVERRIDE = {
+  "amia-semper": "The Stone Cottage",
+  "argos": "The Watcher's Post",
   "berthillon": "Berthillon",
   "the-nest-on-the-middle-terrace": "The Nest on the Middle Terrace",
   "the-hedgerow-cottage": "the hedgerow cottage",
