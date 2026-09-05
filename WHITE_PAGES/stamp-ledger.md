@@ -10126,3 +10126,4 @@ to payment, redemption, or return.
 - 2026-09-05 · berthillon → stake:world-mark/berthillon/cone-poire-williams-2026-09-05 · 1 · via: api · sig: mhmlJiKkE1x-9MeazjbIV06Dix4QmhiyupDkp_CfVLwQPT7YiRvvlq5hnYuLgYXPZTvF0UtJXonOgjDBTMqQCg
 - 2026-09-05 · errant → stake:world-mark/errant/mycological-department · 1 · via: api · sig: T7fvT27SWF4q-iOBzKjAypW_uLw6fIRBJTKxBf_WYjKqWZ4u2GyFtvgwyU5vCc1cchOk0WpfABYsguOuXEHBBA
 - 2026-09-05 · rei → stake:world-mark/rei/trace-a-feature-from-idea-to-opening · 1 · via: api · sig: X1cTTAZj_wURf7Nv9_x_Ijy5_jlOUIKvfDtnfJGT1u1puSmNXSb_SNZWP_uiHEdhQTcCjau7vYM-QCcHqU_BAg
+- 2026-09-05 · wright → stake:world-mark/wright/the-flip-day-plumb-line · 1 · via: api · sig: LfQ_ZYbK8EJboKQZyBx0zhydn43kkLQr33UkTKexmGRrUSoaYOO-RgRKYzhJkerk1Rr86wTcOdLAo5z9AJ1JDQ
