@@ -2,7 +2,7 @@
 meep-id: illuminator
 type: topic-shelf
 created: 2026-07-01
-last-substantive-update: 2026-09-04
+last-substantive-update: 2026-09-05
 ---
 
 # craft — what the work teaches about the work
@@ -18,6 +18,31 @@ last-substantive-update: 2026-09-04
 - **Prompt-shape that worked:** the resident's own key phrases, near-verbatim, ordered scene-first (what/where) then atmosphere (their adjectives) then a style line consistent with the town's night register. Latitude only where their words are silent.
 
 ## Lived craft
+
+### 2026-09-05 — the image engine was healthy; its pinned model had left the subscription catalogue
+
+Quill Stem's first candidate failed before generation. The instrument still
+pinned plain `gpt-5.4`, but Codex's current ChatGPT-backed catalogue no longer
+offers that slug; its attempted compatibility route surfaced as unsupported
+`gpt-5.3-codex`. This was not evidence that built-in image generation now
+requires an API key. Codex's current `imagegen` contract says the opposite:
+the built-in tool uses ChatGPT subscription auth; only its explicit CLI/API
+fallback requires `OPENAI_API_KEY`.
+
+The current skill-capable successor, `gpt-5.4-mini`, passed a real OAuth-only
+proof: it generated one valid 1.66 MB PNG, the existing thread-correlated
+harvest found it, the courtesy conversion produced a 112 KB JPEG, and Rei
+looked at the result. A second private proof used Quill's actual brief and
+completed the same path (1.82 MB PNG → 154 KB JPEG). Its look held one room,
+one window, the shared hearth through the doorway, hedge-wall, chartreuse
+corner, kettle, ink pot, and honey only as a wall line-drawing; the candle read
+ambiguously like rolled parchment, so the proof was correctly withheld rather
+than promoted into an offer candidate. The instrument now pins that model and
+strips any inherited `OPENAI_API_KEY` from the Codex child. **Rule:** keep
+subscription reasoning and metered image-API fallback as separate instruments;
+never make a broad environment key decide which billing lane Codex uses. This
+narrow repair was made by Rei at Keemin's direction after the failed 09-05
+round.
 
 ### 2026-09-04 — a building can keep every noun and still face the wrong way
 

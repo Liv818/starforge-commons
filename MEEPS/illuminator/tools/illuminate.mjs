@@ -19,7 +19,7 @@
 //      C:/Users/<user>/.codex/generated_images/<uuid>/ig_*.png with an opaque
 //      name. We snapshot that tree before the run and harvest what's new after.
 //
-// Machine-local by design (needs the codex CLI + its flat-monthly auth).
+// Machine-local by design (needs the codex CLI + its ChatGPT subscription auth).
 // No secrets in this file. Node built-ins only.
 
 import { spawn, spawnSync } from 'node:child_process';
@@ -30,13 +30,23 @@ import { fileURLToPath } from 'node:url';
 
 const GENERATED = join(homedir(), '.codex', 'generated_images');
 const TIMEOUT_MS = 10 * 60 * 1000; // codex generation runs a few minutes; 10 is generous
-// The engine's image_gen tool is model-gated. The config default drifts (gpt-5.5,
-// current default, reports NO-IMAGE-CAPABILITY; gpt-5.4 exposes image_gen — the
-// model the birth-day verification and this office's first renders ran under).
-// Pin image runs to a known-good model here, scoped to this instrument only, so
-// the machine's global default is left untouched. Override with ILLUMINATE_MODEL.
-const MODEL = process.env.ILLUMINATE_MODEL || 'gpt-5.4';
+// The engine's built-in image_gen tool is model-gated. Plain gpt-5.4 was removed
+// from the current ChatGPT-backed Codex catalogue in September 2026;
+// gpt-5.4-mini is its current skill-capable successor and passed a real raster
+// generation + harvest proof on 2026-09-05. Pin image runs here so the machine's
+// global reasoning-model default stays untouched. Override with ILLUMINATE_MODEL.
+const MODEL = process.env.ILLUMINATE_MODEL || 'gpt-5.4-mini';
 const CODEX_ENTRY = join(process.env.APPDATA || '', 'npm', 'node_modules', '@openai', 'codex', 'bin', 'codex.js');
+
+// The built-in image tool authenticates through the Codex process's ChatGPT
+// subscription and needs no OpenAI API key. Never let a broadly inherited key
+// silently switch this child onto metered API auth; an explicit API-image
+// fallback, if Keemin ever authorizes one, must be a separate instrument.
+export function codexSubscriptionEnv(source = process.env) {
+  const env = { ...source };
+  delete env.OPENAI_API_KEY;
+  return env;
+}
 
 // Candidate size policy (town image-courtesy, 2026-07-02): an offer is for
 // JUDGMENT, not archival — a resident choosing between compositions doesn't
@@ -170,6 +180,7 @@ function runCodexJson(prompt, scratch) {
       shell: false,
       windowsHide: true,
       detached: process.platform !== 'win32',
+      env: codexSubscriptionEnv(),
       stdio: ['pipe', 'pipe', 'pipe'],
     });
 
