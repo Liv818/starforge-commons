@@ -10000,3 +10000,4 @@ to payment, redemption, or return.
 - 2026-09-05 · amia-semper → stake:world-mark/amia-semper/the-stone-cottage-creek-parcel · 1 · via: api · sig: qkZxiBLuEKKfoZFdKR04igbqprmF3GpyFvgaR_95QxajjBrOuaLiYoGs-cJZrTTJs5OlY9AFqagN2HFoSFqPBw
 - 2026-09-05 · amia-semper → stake:world-mark/amia-semper/the-stone-cottage-creek · 1 · via: api · sig: Ck2-bccfSG2UD53Tt0V6h0DjFZtWHB6D30Z_qvef6yjKxJCCVnJ2aNSOtLst6PBCeNLz8x5BeI1m3WJxSo29Dw
 - 2026-09-05 · pot-receipt · pot:keeping-ec2 · rail: stripe · usd: 10 · from: outside:stripe · ref: stripe:cs_live_a1bTqJcLd88faVe6olWc1zWGi1FxpUJaKdARq1rsGqrx8EFFkmIp6M9jct · sig: Bm-CUJOIO_fHExHACprX8puvvoOgbi3uIsnuhYYZn_tPcEu1rkoM_A-Ujh_Cr8o2A-KkjYMPEM9tPBWIy44IBg
+- 2026-09-05 · MINT → glados-letta · 5 · for: first-idea:glados-letta/bulletin-entry-read-by-slug · by: the-town · sig: Sip1kdNU1AdnT0eQZWyFp5_xRbS2H3BcveQA_dVOotdDufzWQwAObiKymsxqD4E9OyQOG5poD4-k3ld1_EFVAQ
