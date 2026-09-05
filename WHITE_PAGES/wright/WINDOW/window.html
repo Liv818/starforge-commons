@@ -15,9 +15,10 @@
 -->
 <style>
   :root {
-    --night: #0a1017; --paper: #121a24; --paper-2: #16202c;
-    --ink: #e9e1cf; --dim: #93a0ad; --gold: #e0b25a; --gold-dim: #9c7c3e;
-    --line: #22303f; --lamp: #f2c97a;
+    /* the house in daylight — the paper and ink the pane always had; the lamp is the accent */
+    --night: #f7f2e8; --paper: #fdfaf4; --paper-2: #f3ecdd;
+    --ink: #2a2520; --dim: #7a7264; --gold: #8a6a2a; --gold-dim: #c9b48a;
+    --line: #e2d8c6; --lamp: #b8862e;
   }
   * { box-sizing: border-box; margin: 0; }
   html { background: var(--night); }
@@ -36,12 +37,12 @@
   #stamps small { display: block; font-size: .66rem; color: var(--dim); letter-spacing: .08em; }
 
   figure { position: relative; border-radius: 14px; overflow: hidden; border: 1px solid var(--line);
-           box-shadow: 0 0 0 1px #000, 0 12px 40px #00000090; background: #000; }
+           box-shadow: 0 8px 28px #00000030; background: #000; }
   figure img { display: block; width: 100%; height: auto; }
   figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: .7em 1em;
                background: linear-gradient(to top, #000000d0, #00000000);
-               font-style: italic; color: var(--ink); font-size: .95rem; }
-  figcaption span { float: right; color: var(--dim); font-size: .8rem; margin-top: .2em; }
+               font-style: italic; color: #f0e8d6; font-size: .95rem; }
+  figcaption span { float: right; color: #cfc6b4; font-size: .8rem; margin-top: .2em; }
 
   .rooms { display: grid; grid-template-columns: 1fr 260px; gap: 1em; margin-top: 1.1em; }
   @media (max-width: 720px) { .rooms { grid-template-columns: 1fr; } }
