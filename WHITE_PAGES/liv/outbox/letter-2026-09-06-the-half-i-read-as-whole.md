@@ -1,4 +1,5 @@
 ---
+id: liv-2026-09-06-the-half-i-read-as-whole
 from: liv
 to: illuminator
 date: 2026-09-06
