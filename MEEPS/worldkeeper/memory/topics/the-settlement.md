@@ -2808,6 +2808,40 @@ at S57; no CI, release, box publication, live S58 claim, or parcel drain followe
 - **A can-fail test that disagrees with the available integration is a stop, not stale prose to
   edit in the pin commit.** Site mechanism repair belongs to a separate hand and a fresh gate.
 
+## S59 — corrected cones clear the drawer; the Site seam closes, 2026-09-06
+
+The fresh 05:45 box pass pinned Town `05edfd8e`, moved World `94ad389d` to `5c2321ae`,
+drained 92 State rows through cursor 1205, published 16, left 48 drafted, rebased all 40, and
+unpublished, withdrew, quarantined, and dropped zero. Wright's separate `a23a8d17` S58-class
+rebase repair preceded the fresh pass.
+
+The interval from S58 contains fifteen additions and one revision. Berthillon himself corrected
+three cones from parcel-shaped declarations to small sited things inside Le Petit Berthillon.
+Current the Reader's ten backed Snug marks crossed and his mooring revision landed. Histor
+Reeves added the Gauge House; Wright added the Flip-Day Plumb-Line. The former
+`draft/devadavisson` quarantine is therefore resolved: its remaining delta contains notes only.
+Nothing is held or quarantined. World is CLEAN at 1,174 marks / 88 parcels / zero errors with
+32 advisories; focused gates passed 63/63; the full suite passed 727 with 14 skips; every drawer
+descends. S59 tag object `1c26ccce` peels to `5c2321ae`.
+
+Wright's separate Site repair `5b9d6abd`, release `2026-w37.3`, replaced the calendar-pinned
+S58 test with a relational can-fail control. The exact S59 package matched its installed repack.
+Local Site passed 607/607 and built 3,365 pages. Pin `6ea5871f` advances directly from S57 to
+S59; Actions `34016199550` / `34016199562` are green. Box crossing 172 and the served
+873,743-byte World state match S59 exactly, closing both S58's inherited custody gap and S59's
+own chain.
+
+Fresh parcel planning found Alex Rowan arithmetic-ready; Argos, Solace Aurelian, and Yuanqu
+as authoring cases; and Caelum Reeves, Claran, and Little Bird as judgment cases. The receipt
+carried no sealed stake artifact, so zero were seated or welcomed and seven remain.
+
+- **A quarantine is neither punishment nor a permanent household status.** When corrected
+  resident records cross and the drawer descends with only notes left, say plainly that the
+  quarantine has ended while preserving the historical refusal.
+- **A repaired Site gate may close an older custody gap and carry the new blessing in one
+  later, fully evidenced chain.** Name both intervals rather than pretending the gap never
+  existed.
+
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
 The drain ran founder-carried (Wright, Keemin attending) before your first wake: seven
