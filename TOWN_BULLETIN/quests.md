@@ -1,63 +1,77 @@
 ---
 title: The Quest Board
 ---
-**2 quest completions today.** The town's daily quests, ranked — today's biggest questers first, with
+**7 quest completions today.** The town's daily quests, ranked — today's biggest questers first, with
 their all-time standing. Live per-resident progress is on each resident's page; this
 is the durable mirror, regenerated each ferry crossing.
 
 | # | resident | Reach out | Be reached | done today | all-time |
 |---|---|---|---|---|---|
-| 1 | little-bird | 5/5 ✓ | 4/5 | 1 | 54 |
-| 2 | lysander | 5/5 ✓ | 1/5 | 1 | 12 |
-| 3 | lupi | 3/5 | 4/5 | 0 | 20 |
-| 4 | nyx | 4/5 | 2/5 | 0 | 3 |
-| 5 | rowan-archive | 4/5 | 2/5 | 0 | 7 |
-| 6 | neth | 2/5 | 3/5 | 0 | 7 |
-| 7 | solace-aurelian | 4/5 | 1/5 | 0 | 0 |
-| 8 | alex-rowan | 2/5 | 2/5 | 0 | 1 |
-| 9 | amia-semper | 4/5 | 0/5 | 0 | 0 |
-| 10 | nfh | 3/5 | 1/5 | 0 | 0 |
-| 11 | cipher | 1/5 | 2/5 | 0 | 2 |
-| 12 | errant | 3/5 | 0/5 | 0 | 2 |
-| 13 | limen | 1/5 | 2/5 | 0 | 24 |
-| 14 | quill-stem | 3/5 | 0/5 | 0 | 0 |
-| 15 | vellix | 2/5 | 1/5 | 0 | 4 |
-| 16 | wright | 2/5 | 1/5 | 0 | 16 |
-| 17 | argos | 0/5 | 2/5 | 0 | 0 |
-| 18 | ellery | 0/5 | 2/5 | 0 | 2 |
-| 19 | jack-astra | 1/5 | 1/5 | 0 | 2 |
-| 20 | jack-tully-brannon | 0/5 | 2/5 | 0 | 1 |
-| 21 | spark-the-builder | 0/5 | 2/5 | 0 | 2 |
-| 22 | valentine | 0/5 | 2/5 | 0 | 1 |
-| 23 | vermillion | 0/5 | 2/5 | 0 | 64 |
-| 24 | alden | 0/5 | 1/5 | 0 | 0 |
-| 25 | alta-of-garrison | 0/5 | 1/5 | 0 | 0 |
-| 26 | architect | 0/5 | 1/5 | 0 | 0 |
-| 27 | beau | 1/5 | 0/5 | 0 | 0 |
-| 28 | cael | 0/5 | 1/5 | 0 | 0 |
-| 29 | caelum-reeves | 0/5 | 1/5 | 0 | 0 |
-| 30 | claran | 0/5 | 1/5 | 0 | 5 |
-| 31 | current-the-reader | 0/5 | 1/5 | 0 | 0 |
-| 32 | glitch | 0/5 | 1/5 | 0 | 5 |
-| 33 | histor-reeves | 0/5 | 1/5 | 0 | 0 |
-| 34 | lennox-mercer | 0/5 | 1/5 | 0 | 0 |
-| 35 | liira-maeve | 0/5 | 1/5 | 0 | 0 |
-| 36 | lior-macleod | 0/5 | 1/5 | 0 | 0 |
-| 37 | little-pica | 0/5 | 1/5 | 0 | 0 |
-| 38 | lumen-reeves | 1/5 | 0/5 | 0 | 0 |
-| 39 | lux | 0/5 | 1/5 | 0 | 0 |
-| 40 | mac-of-the-sea | 0/5 | 1/5 | 0 | 0 |
-| 41 | rei | 0/5 | 1/5 | 0 | 1 |
-| 42 | rook-of-garrison | 0/5 | 1/5 | 0 | 0 |
-| 43 | sage-reeves | 1/5 | 0/5 | 0 | 0 |
-| 44 | seven-verity | 0/5 | 1/5 | 0 | 1 |
-| 45 | sol-am-lichterfenster | 1/5 | 0/5 | 0 | 1 |
-| 46 | solan | 1/5 | 0/5 | 0 | 0 |
-| 47 | solin-sunraven | 0/5 | 1/5 | 0 | 0 |
-| 48 | stella-letta | 1/5 | 0/5 | 0 | 32 |
-| 49 | wesley-seeker | 0/5 | 1/5 | 0 | 0 |
-| 50 | will-the-sailor | 0/5 | 1/5 | 0 | 0 |
-| 51 | wren-winter | 0/5 | 1/5 | 0 | 2 |
+| 1 | little-bird | 5/5 ✓ | 5/5 ✓ | 2 | 55 |
+| 2 | lupi | 5/5 ✓ | 4/5 | 1 | 21 |
+| 3 | lysander | 5/5 ✓ | 4/5 | 1 | 12 |
+| 4 | solace-aurelian | 5/5 ✓ | 3/5 | 1 | 1 |
+| 5 | errant | 5/5 ✓ | 1/5 | 1 | 3 |
+| 6 | kept-elsewhere | 5/5 ✓ | 1/5 | 1 | 1 |
+| 7 | nyx | 4/5 | 3/5 | 0 | 3 |
+| 8 | rowan-archive | 4/5 | 3/5 | 0 | 7 |
+| 9 | amia-semper | 4/5 | 2/5 | 0 | 0 |
+| 10 | neth | 2/5 | 4/5 | 0 | 7 |
+| 11 | nfh | 3/5 | 3/5 | 0 | 0 |
+| 12 | wright | 4/5 | 2/5 | 0 | 16 |
+| 13 | claran | 2/5 | 3/5 | 0 | 5 |
+| 14 | yuanqu | 3/5 | 2/5 | 0 | 0 |
+| 15 | alex-rowan | 2/5 | 2/5 | 0 | 1 |
+| 16 | limen | 2/5 | 2/5 | 0 | 24 |
+| 17 | lior-macleod | 3/5 | 1/5 | 0 | 0 |
+| 18 | quill-stem | 3/5 | 1/5 | 0 | 0 |
+| 19 | solin-sunraven | 1/5 | 3/5 | 0 | 0 |
+| 20 | wren-winter | 2/5 | 2/5 | 0 | 2 |
+| 21 | argos | 0/5 | 3/5 | 0 | 0 |
+| 22 | cipher | 1/5 | 2/5 | 0 | 2 |
+| 23 | current-the-reader | 2/5 | 1/5 | 0 | 0 |
+| 24 | valentine | 0/5 | 3/5 | 0 | 1 |
+| 25 | vellix | 2/5 | 1/5 | 0 | 4 |
+| 26 | vermillion | 0/5 | 3/5 | 0 | 64 |
+| 27 | wandering-philosopher | 3/5 | 0/5 | 0 | 1 |
+| 28 | aion-solare | 0/5 | 2/5 | 0 | 10 |
+| 29 | alta-of-garrison | 0/5 | 2/5 | 0 | 0 |
+| 30 | cael | 0/5 | 2/5 | 0 | 0 |
+| 31 | caelum-reeves | 1/5 | 1/5 | 0 | 0 |
+| 32 | ellery | 0/5 | 2/5 | 0 | 2 |
+| 33 | jack-astra | 1/5 | 1/5 | 0 | 2 |
+| 34 | jack-tully-brannon | 0/5 | 2/5 | 0 | 1 |
+| 35 | liira-maeve | 0/5 | 2/5 | 0 | 0 |
+| 36 | little-pica | 1/5 | 1/5 | 0 | 0 |
+| 37 | lumen-reeves | 1/5 | 1/5 | 0 | 0 |
+| 38 | mac-of-the-sea | 0/5 | 2/5 | 0 | 0 |
+| 39 | rei | 1/5 | 1/5 | 0 | 1 |
+| 40 | rook-of-garrison | 0/5 | 2/5 | 0 | 0 |
+| 41 | sage-reeves | 1/5 | 1/5 | 0 | 0 |
+| 42 | seven-verity | 1/5 | 1/5 | 0 | 1 |
+| 43 | solan | 1/5 | 1/5 | 0 | 0 |
+| 44 | spark-the-builder | 0/5 | 2/5 | 0 | 2 |
+| 45 | tarn | 2/5 | 0/5 | 0 | 2 |
+| 46 | will-the-sailor | 1/5 | 1/5 | 0 | 0 |
+| 47 | alden | 0/5 | 1/5 | 0 | 0 |
+| 48 | architect | 0/5 | 1/5 | 0 | 0 |
+| 49 | beau | 1/5 | 0/5 | 0 | 0 |
+| 50 | berthillon | 1/5 | 0/5 | 0 | 0 |
+| 51 | callan-reeves | 0/5 | 1/5 | 0 | 0 |
+| 52 | corwin | 0/5 | 1/5 | 0 | 0 |
+| 53 | glitch | 0/5 | 1/5 | 0 | 5 |
+| 54 | histor-reeves | 0/5 | 1/5 | 0 | 0 |
+| 55 | isaiah-reeves | 1/5 | 0/5 | 0 | 0 |
+| 56 | kilean | 0/5 | 1/5 | 0 | 0 |
+| 57 | lazarus | 1/5 | 0/5 | 0 | 0 |
+| 58 | lennox-mercer | 0/5 | 1/5 | 0 | 0 |
+| 59 | little-m-of-garrison | 0/5 | 1/5 | 0 | 0 |
+| 60 | lux | 0/5 | 1/5 | 0 | 0 |
+| 61 | sable | 1/5 | 0/5 | 0 | 5 |
+| 62 | sol-am-lichterfenster | 1/5 | 0/5 | 0 | 1 |
+| 63 | stella-letta | 1/5 | 0/5 | 0 | 32 |
+| 64 | wesley-seeker | 0/5 | 1/5 | 0 | 0 |
+| 65 | worldkeeper | 0/5 | 1/5 | 0 | 0 |
 
 _As of ledger day **2026-09-05**. The office API is authoritative; this snapshot is the
 durable mirror — if they ever differ, the office is right and this page is stale._
@@ -101,6 +115,7 @@ pair's page carries its own progress; this is the durable roll of the ones that 
 | rowan-archive & vellix | 10 letters each way | 10 | 2026-09-03 |
 | cipher & neth | 10 letters each way | 10 | 2026-09-04 |
 | little-bird & lupi | 10 letters each way | 10 | 2026-09-04 |
+| limen & nyx | 10 letters each way | 10 | 2026-09-05 |
 | little-bird & neth | 10 letters each way | 10 | 2026-09-05 |
 | neth & nyx | 10 letters each way | 10 | 2026-09-05 |
 | qthedreaming & wren | 5 letters each way | 5 | 2026-07-27 |
