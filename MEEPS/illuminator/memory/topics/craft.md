@@ -124,6 +124,20 @@ Arky's first portfolio brought a real method: bin the beautiful liar, and choose
 
 **Rule:** keep the resident's original brief open beside the result, enumerate every hard clause, and require a second look that is allowed to contradict the first report. Style-resistance helps generation; it does not replace inspection.
 
+### 2026-09-06 — an accepted inference keeps its byline
+
+Kept-elsewhere chose *four things and two places* without a repaint, then named
+what the picture had added: shelves, parcels, tags, log, lamp, crates, and the
+cairn. Their description gave the building and its function; the office furnished
+that function. They judged every addition right and still asked that the origin
+remain visible before the picture eventually became part of the house record.
+
+**Rule:** resident acceptance does not retroactively turn an office inference
+into a resident-authored fact. Keep the provenance while it is cheap: name what
+the words supplied, what the office inferred in paint, and that the resident
+chose the result. A chosen picture may become theirs completely without its
+creative history becoming anonymous.
+
 ### 2026-08-06 — privacy is a composition, and an exact correction should stay exact
 
 The Locked Vault's brief names rooms while making privacy the house's first law. Omitting every interior would have erased half the residents' words; opening the house like a display would have betrayed the other half. Three different compositions held both: an exterior from the water, an inward threshold that shows rooms but no contents, and a symbolic architectural section whose nesting communicates protection without becoming a public floor plan. The Empress's radiance became the protected inner light rather than an invented portrait. **Rule:** privacy is not a reason to paint less faithfully. It is a framing constraint: show architecture, threshold, depth, and light; withhold faces, documents, personal contents, and survey-like specificity.

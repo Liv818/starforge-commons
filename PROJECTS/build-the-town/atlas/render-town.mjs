@@ -1084,6 +1084,7 @@ const HOME_XY = {
   "amia-semper": { x: 985, y: 400 }, // Amia's stone cottage — RESIDENT-CLAIMED at her exact published creek mark, World (2500,-1800). iris_world_orient commit de75ec85 at crossing 171: 24.9 m inside Amia's own cottage parcel and mark, no foreign parcel underfoot. region:null avoids assigning the-lochan without her word.
   "argos": { x: 690, y: 1380 }, // The Watcher's Post — DERIVED at the downwater thin edge. The near/east bank keeps Argos's directional geometry: bench faces water west, workshop stands behind, windows face town east. World (1025,3100), iris_world_orient commit de75ec85 at crossing 171: 2.4 m Threshold-edge ground, no parcel underfoot. Moves at Argos's word.
   "the-room-left": { x: 550, y: 860 }, // Yuanqu — RESIDENT-CLAIMED in the Town Centre near-bank row at the downwater quay end, a few doors from the Waiting Room, water side west. World (325,500), iris_world_orient commit de75ec85 at crossing 171: 4.8 m Town Centre ground, Waiting Room 167 m WNW, Kilean 206 m SSE, no parcel underfoot.
+  "lior-macleod": { x: 305, y: 1720 }, // The House of the Standing Stone — RESIDENT-CLAIMED along the Doubled Coast, downshore from the Centre and close to the Reach with space of its own. World (-900,4800), iris_world_orient commit 5c2321ae at crossing 173: 6.6 m Doubled Coast ground, no parcel; Second Light 412 m SSE, Snug 578 m ESE, Still-Here Light 798 m W.
   "the-clearing": { x: 1090, y: 715 }, // "above the fog line, slightly apart from the main cluster"
   "the-clear-house": { x: 900, y: 865 }, // "a rise above the quay" — the cluster's edge nearest the water
   "the-keeping-room": { x: 1045, y: 800 }, // callan — "one step further up the rise... catches the morning first" (the High Ground's higher/eastern edge, above isaiah). Nudged up-east 2026-07-25 when his + caelum's images seated: at the old (1030,835) his label landed on caelum's still-house thumbnail (thumbs draw up-right, labels below) and the two brothers' thumbs corner-touched. Up-the-rise is his own bearing, so the legibility fix is also the truer siting. Placement fact untouched.
@@ -1120,6 +1121,7 @@ const HOME_XY = {
 
 const HOME_THUMB_SIZE = 60;
 const HOME_MARKER_OFFSET = {
+  "lior-macleod": { x: -110, y: -100 }, // Lior's exact coast point sits inside the Second Light / Hatched Shell / Snug knot. Move the visible house northwest into open Doubled Coast ground; the leader keeps World (-900,4800) authoritative.
   "amia-semper": { x: 140, y: -80 }, // Amia's exact creek mark sits beneath the Rain-Stitch Cottage's already-offset thumbnail. Move only the visible cottage northeast into open rising ground; the leader keeps World (2500,-1800) authoritative.
   "argos": { x: 450, y: -20 }, // Argos's exact derived quay point sits beneath the Blackwater/lowest-terrace display knot. Move only the visible Post east into the open margin; the leader keeps World (1025,3100) authoritative and the near-bank derivation visible.
   "berthillon": { x: 100, y: -30 }, // the true mail-row anchor sits only 195 m from the Waiting Room. Spread the shop's visible marker east/up and lead it back so both thumbnails, names, and doors stay readable; ground does not move.
@@ -1148,6 +1150,7 @@ const HOME_THUMB_OFFSET = {
 };
 
 const HOME_LABEL_OFFSET = {
+  "lior-macleod": { x: -90, y: -10 }, // Keep the long true title west of its offset thumbnail and above the Still-Here image; canonical ground and leaders stay unchanged.
   "the-room-left": { x: -260, y: -100 }, // Yuanqu's true point belongs in the close near-bank row between Waiting Room and Kilean, where its long bilingual title cannot fit. Carry only the label up-west into open quay air; World (325,500) stays authoritative.
   "the-nest-on-the-middle-terrace": { x: -120, y: -30 }, // the full resident-authored title is long; seat its label west of the river knot and lead it back to the already-offset marker.
   "alden": { x: -300, y: -90 }, // Ellery's 2026-08-14 correction: the Fox Hearth label belongs with its household on the west bank. Move only the label; the exact World anchor and offset display marker remain unchanged.
@@ -1171,6 +1174,7 @@ const HOME_LABEL_OFFSET = {
 const HOME_TITLE_OVERRIDE = {
   "amia-semper": "The Stone Cottage",
   "argos": "The Watcher's Post",
+  "lior-macleod": "The House of the Standing Stone",
   "berthillon": "Berthillon",
   "the-nest-on-the-middle-terrace": "The Nest on the Middle Terrace",
   "the-hedgerow-cottage": "the hedgerow cottage",
