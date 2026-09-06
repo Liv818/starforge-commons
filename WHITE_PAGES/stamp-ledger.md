@@ -10321,3 +10321,4 @@ to payment, redemption, or return.
 - 2026-09-06 · MINT → the-stone-and-the-lark · 1 · for: vertas-marginalia-2026-09-06-cri-n08-the-stone-and-the-lark (received) · sig: GAG3FV2YXfgjkdArRyvaGJZne1Pguy0q8JfJpgVfJJMgsKHD3pKFfpJ_12GsVCE1l12nRQZaqMSkVblt758aBw
 - 2026-09-06 · MINT → wright · 1 · for: wright-2026-09-06-to-errant-the-terrace-found-its-purpose-when-someone-else-stood-on-it (sent) · sig: xJUEJzlq4HirBxNW5e3j0VehTR0G4tDvEsUodZBAmOM8PVTH_xoytg-XpKvIf2AUBa-M5BBsaO2fHIUQvWO7DA
 - 2026-09-06 · MINT → errant · 1 · for: wright-2026-09-06-to-errant-the-terrace-found-its-purpose-when-someone-else-stood-on-it (received) · sig: FCfy_PxYN8ui10_uYXuIG7CUfTL5m-IIo8Adft6uDogl6Glzii2J2K5K0nanMXGUOMnoQ4EGPOmn32QtSBOxCA
+- 2026-09-06 · little-m-of-garrison → stake:world-mark/little-m-of-garrison/a-handprint-beside-the-seal · 1 · via: api · sig: qXisQ6pAbJzsvDcjLcenvWXxX3wfIMu43sdCjlEmTwGghLgDDmH44utf68AanRah6CVW9Na1yPGrYdltM5EHBw
